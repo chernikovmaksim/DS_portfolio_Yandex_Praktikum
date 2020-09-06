@@ -1,15 +1,11 @@
-# Аnalysis of mobile tariffs
+# Game industry analysis
 ## Data
 The following datasets were used:
 
-* calls - information about calls
-* internet - information about internet sessions
-* messages - information about messages
-* tariffs - information about tariffs
-* users - information about users
+* historical game sales data, user and expert ratings, genres, and platforms (e.g. Xbox or PlayStation)
 
 ## Project description
-Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
+Analyze the gaming industry and identify patterns that determine the success of the game to bet on a potentially popular product and plan ad campaigns
 
 ## Required libraries
-numpy, pandas, matplotlib, seaborn, scipy
+pandas, numpy, scipy, matplotlib, seaborn

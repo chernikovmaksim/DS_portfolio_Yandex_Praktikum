@@ -1,15 +1,16 @@
-# Аnalysis of mobile tariffs
+# Steel temperature prediction
 ## Data
 The following datasets were used:
-
-* calls - information about calls
-* internet - information about internet sessions
-* messages - information about messages
-* tariffs - information about tariffs
-* users - information about users
+* data on electrodes
+* data on the supply of bulk materials (volume)
+* data on the supply of bulk materials (time)
+* data on gas blowing of the alloy
+* temperature measurement results
+* data on wire materials (volume)
+* wire material data (time)
 
 ## Project description
-Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
+It is necessary to build a model that predicts the temperature of the steel in order to optimize production costs.
 
 ## Required libraries
-numpy, pandas, matplotlib, seaborn, scipy
+pandas, numpy, scikit learn, lightgbm, matplotlib, seaborn
