@@ -3,7 +3,7 @@
 ### Yandex Praktikum: https://praktikum.yandex.ru/
 ### Certificate : https://www.linkedin.com/in/maksimchernikov/
 
-This repository is mainly for projects I have done under Yandex Praktikum in 2020. As part of the training, I independently completed 18 projects that were reviewed by experienced mentors.
+This repository is mainly for projects I have done under Yandex Praktikum in 2020. As part of the training, I independently completed 18 projects that were reviewed by experienced mentors. I have selected the most difficult and interesting of them so that you have the opportunity to evaluate my skills.
 
 The Yandex Praktikum Data Science program prepares me for a career as a Data Scientist, helping me learn how to cleanse and organize data, analyze it, test hypotheses, find patterns and relationships, select features, build forecasting and classification models, choose a suitable algorithm, select hyperparameters for models, work with images, text and flat tables and etc.
 
