@@ -22,4 +22,4 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 | [Oil production](oil_production_ml) | Develop an ML model that will help determine the region where oil production will bring the greatest profit | *pandas*, *numpy*, *scikit learn* |
 | [Auto price prediction](auto_price_ml) | Develop an ML model with which you can find out the market value of your car | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *catboost*, *matplotlib*, *seaborn* |
 | [Taxi orders prediction](taxi_orders_ts_ml) | Develop an ML model for predicting the number of taxi orders for the next hour | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *statsmodels*, *matplotlib*, *seaborn* |
-| [Taxi orders prediction](taxi_orders_ts_ml) | Develop an ML model for predicting the number of taxi orders for the next hour | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *statsmodels*, *matplotlib*, *seaborn* |
+| [Toxic comments classification](toxic_comments_nlp) | Develop an ML model for classifying comments into positive and negative | *pandas*, *numpy*, *scikit learn*, *torch*, *tqdm*, *sys*, *os*, *time*, *transformers*, *nltk*, *matplotlib*, *seaborn* |
