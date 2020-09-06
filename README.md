@@ -21,6 +21,7 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 4) Develop an ML model with which you can find out the market value of your car
 5) Develop an ML model for predicting the number of taxi orders for the next hour
 6) Develop an ML model for classifying comments into positive and negative (NLP)
+
 | Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Аnalysis of mobile tariffs](Аnalysis of mobile tariffs) |  | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
