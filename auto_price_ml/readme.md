@@ -5,7 +5,11 @@ The following datasets were used:
 * autos - technical characteristics, configuration and prices of cars
 
 ## Project description
-Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
+You need to develop a fast machine learning model for a car dealership that will help you find out the market value of your car. <br>
+Important for the customer:
+* quality of prediction;
+* prediction speed;
+*	studying time
 
 ## Required libraries
 pandas, numpy, scikit learn, lightgbm, catboost, matplotlib, seaborn 
