@@ -24,4 +24,4 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 
 | Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Аnalysis of mobile tariffs](Аnalysis of mobile tariffs) |  | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
+| [Аnalysis of mobile tariffs](mobile_tariffs_analisys) |  | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
