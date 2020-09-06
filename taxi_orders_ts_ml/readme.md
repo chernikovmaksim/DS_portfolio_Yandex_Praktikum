@@ -8,4 +8,4 @@ The following datasets were used:
 It is necessary to build a model for predicting the number of taxi orders for the next hour. The RMSE metric value is not more than 48.
 
 ## Required libraries
-numpy, pandas, matplotlib, seaborn, scipy
+pandas, numpy, scikit learn, lightgbm, statsmodels, matplotlib, seaborn
