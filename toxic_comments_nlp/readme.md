@@ -1,4 +1,4 @@
-# Аnalysis of mobile tariffs
+# Toxic comments classification
 ## Data
 The following datasets were used:
 
