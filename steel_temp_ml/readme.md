@@ -1,4 +1,4 @@
-# Аnalysis of mobile tariffs
+# Steel temperature prediction
 ## Data
 The following datasets were used:
 
