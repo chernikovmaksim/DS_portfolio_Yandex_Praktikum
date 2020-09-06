@@ -18,6 +18,7 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 | Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Аnalysis of mobile tariffs](mobile_tariffs_analysis) | Analysis of 2 mobile tariffs in order to identify the most profitable | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
+| [Game industry analysis](game_industry_analysis) | Analyze the gaming industry and identify patterns that determine the success of the game | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
 | [Bank customer churn prediction](customer_churn_ml) | Develop an ML model that predicts the churn of bank customers | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* |
 | [Oil production](oil_production_ml) | Develop an ML model that will help determine the region where oil production will bring the greatest profit | *pandas*, *numpy*, *scikit learn* |
 | [Auto price prediction](auto_price_ml) | Develop an ML model with which you can find out the market value of your car | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *catboost*, *matplotlib*, *seaborn* |
