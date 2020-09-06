@@ -2,7 +2,7 @@
 ## Data
 The following datasets were used:
 
-* autos - technical characteristics, configuration and prices of cars
+* technical characteristics, configuration and prices of cars
 
 ## Project description
 You need to develop a fast machine learning model for a car dealership that will help you find out the market value of your car. <br>
