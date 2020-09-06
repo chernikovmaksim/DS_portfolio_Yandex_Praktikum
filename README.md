@@ -1,7 +1,7 @@
 # DS_portfolio_Yandex_Praktikum
-Data Science projects:
-## Yandex Praktikum: https://praktikum.yandex.ru/
-## Certificate : https://www.linkedin.com/in/maksimchernikov/
+
+### Yandex Praktikum: https://praktikum.yandex.ru/
+### Certificate : https://www.linkedin.com/in/maksimchernikov/
 
 This repository is mainly for projects I have done under Yandex Praktikum in 2020. As part of the training, I independently completed 18 projects that were reviewed by experienced mentors.
 
@@ -15,13 +15,7 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 
 ## Projects:
 
-1) Develop an ML model that predicts the temperature at the final stage of steel processing
-2) Develop an ML model that predicts the churn of bank customers
-3) Develop an ML model that predicts the recovery rate of gold from a gold ore
-4) Develop an ML model with which you can find out the market value of your car
-5) Develop an ML model for predicting the number of taxi orders for the next hour
-6) Develop an ML model for classifying comments into positive and negative (NLP)
-
 | Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Аnalysis of mobile tariffs](mobile_tariffs_analysis) |  | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
+| [Аnalysis of mobile tariffs](mobile_tariffs_analysis) | Analysis of 2 mobile tariffs in order to identify the most profitable | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* |
+| [Аnalysis of mobile tariffs](customer_churn_ml) |  | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* |
