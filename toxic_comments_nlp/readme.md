@@ -2,7 +2,7 @@
 ## Data
 The following datasets were used:
 
-* toxic_comments - comment text
+* comment texts
 
 ## Project description
 It is necessary to train the model to classify comments into positive and negative.
