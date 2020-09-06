@@ -1,15 +1,16 @@
 # Steel temperature prediction
 ## Data
 The following datasets were used:
-
-* calls - information about calls
-* internet - information about internet sessions
-* messages - information about messages
-* tariffs - information about tariffs
-* users - information about users
+* data_arc.csv - data on electrodes
+* data_bulk.csv - data on the supply of bulk materials (volume)
+* data_bulk_time.csv - data on the supply of bulk materials (time)
+* data_gas.csv - data on gas blowing of the alloy
+* data_temp.csv - temperature measurement results
+* data_wire.csv - data on wire materials (volume)
+* data_wire_time.csv - wire material data (time)
 
 ## Project description
-Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
+It is necessary to build a model that predicts the temperature of the steel in order to optimize production costs.
 
 ## Required libraries
-numpy, pandas, matplotlib, seaborn, scipy
+pandas, numpy, scikit learn, lightgbm, matplotlib, seaborn
