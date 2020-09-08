@@ -10,7 +10,7 @@ The Yandex Praktikum Data Science program prepares me for a career as a Data Sci
 ## Technology stack 
 Python, Jupyter notebook, Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGBM, Catboost, Keras, PyTorch, pymystem3, collections
 
-Tips: If you want to run this code localy, I would recomend you to install Anaconda and use Jupyter Notebook with it's basic libraries: numpy , pandas , scipy , scikit learn , matplotlib , seaborn. Libraries may vary depending on the projects. By the way, Yandex prohibits uploading source datasets, so you won't see them here. 
+Tips: If you want to run this code localy, I would recomend you to install Anaconda and use Jupyter Notebook with it's basic libraries: numpy , pandas , scipy , scikit learn , matplotlib , seaborn. Libraries may vary depending on the projects. By the way, Yandex prohibits uploading source datasets, so you won't see them here.
 
 
 ## Projects
@@ -26,3 +26,4 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 | [Toxic comments classification](toxic_comments_nlp) | Develop an ML model for classifying comments into positive and negative | *pandas*, *numpy*, *scikit learn*, *torch*, *tqdm*, *sys*, *os*, *time*, *transformers*, *nltk*, *matplotlib*, *seaborn* |
 | [Steel temperature prediction](steel_temp_ml) | Develop an ML model that predicts the temperature at the final stage of steel processing | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *matplotlib*, *seaborn* |
 | [Gold recovery rate prediction](gold_recovery_ml) | Develop an ML model that predicts the recovery rate of gold from a gold ore | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* |
+All projects are described in Russian, if you want to delve deeper into them feel free to contact me and I will translate them into English for you: chernikovmaksim7@gmail.com.
