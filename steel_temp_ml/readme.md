@@ -1,4 +1,12 @@
 # Steel temperature prediction
+## Project description
+It is necessary to build a model that predicts the temperature of the steel in order to optimize production costs.
+## Status
+Done
+## Goals
+## Required libraries
+pandas, numpy, scikit learn, lightgbm, matplotlib, seaborn
+## Conclusion
 ## Data
 The following datasets were used:
 * data on electrodes
@@ -8,9 +16,3 @@ The following datasets were used:
 * temperature measurement results
 * data on wire materials (volume)
 * wire material data (time)
-
-## Project description
-It is necessary to build a model that predicts the temperature of the steel in order to optimize production costs.
-
-## Required libraries
-pandas, numpy, scikit learn, lightgbm, matplotlib, seaborn
