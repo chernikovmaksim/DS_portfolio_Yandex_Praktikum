@@ -10,7 +10,7 @@ The Yandex Praktikum Data Science program prepares me for a career as a Data Sci
 ## Technology stack 
 Python, Jupyter notebook, Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGBM, Catboost, Keras, PyTorch, pymystem3, collections
 
-*Tips: If you want to run this code localy, I would recomend you to install Anaconda and use Jupyter Notebook with it's basic libraries: Numpy , Pandas , SciPy , Scikit learn , Matplotlib , Seaborn. Libraries may vary depending on the projects. By the way, Yandex prohibits uploading source datasets, so you won't see them here.*
+*Tips: If you want to run this code localy, I would recomend you to install Anaconda and use Jupyter Notebook with it's basic libraries: Numpy , Pandas , SciPy , Scikit learn , Matplotlib , Seaborn. Libraries may vary depending on the projects. By the way, Yandex prohibits uploading source datasets and full project descriptions, so you won't see them here.*
 
 
 ## Projects
