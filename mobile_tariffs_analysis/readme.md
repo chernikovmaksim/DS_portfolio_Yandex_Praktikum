@@ -1,4 +1,14 @@
 # Аnalysis of mobile tariffs
+## Project description
+Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
+## Status
+Done
+## Goals
+
+## Required libraries
+pandas, numpy, scipy, matplotlib, seaborn
+## Conclusions
+
 ## Data
 The following datasets were used:
 
@@ -7,9 +17,3 @@ The following datasets were used:
 * messages - information about messages
 * tariffs - information about tariffs
 * users - information about users
-
-## Project description
-Customers are offered two tariff plans. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. It is necessary to do a preliminary analysis of tariffs for a small sample of customers.
-
-## Required libraries
-pandas, numpy, scipy, matplotlib, seaborn
