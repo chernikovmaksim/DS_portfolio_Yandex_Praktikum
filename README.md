@@ -27,4 +27,4 @@ Tips: If you want to run this code localy, I would recomend you to install Anaco
 | [Steel temperature prediction](steel_temp_ml) | Develop an ML model that predicts the temperature at the final stage of steel processing | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *matplotlib*, *seaborn* |
 | [Gold recovery rate prediction](gold_recovery_ml) | Develop an ML model that predicts the recovery rate of gold from a gold ore | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* |
 
-*All projects are described in Russian, if you want to delve deeper into them feel free to contact me and I will translate them into English for you: chernikovmaksim7@gmail.com.
+*All projects are described in Russian, if you want to delve deeper into them feel free to contact me and I will translate them into English for you: chernikovmaksim7@gmail.com*
