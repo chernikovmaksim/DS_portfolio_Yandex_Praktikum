@@ -8,9 +8,9 @@ This repository is mainly for projects I have done under Yandex Praktikum in 202
 The Yandex Praktikum Data Science program prepares me for a career as a Data Scientist, helping me learn how to cleanse and organize data, analyze it, test hypotheses, find patterns and relationships, select features, build forecasting and classification models, choose a suitable algorithm, select hyperparameters for models, work with images, text and flat tables and etc.
 
 ## Technology stack 
-Programming language: Python (ver. 3) 
-IDE: Jupyter Notebook 
-Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGBM, Catboost, Keras, PyTorch, pymystem3, collections
+Programming language: Python (ver. 3)<br>
+IDE: Jupyter Notebook<br>
+Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGBM, Catboost, Keras, PyTorch, pymystem3, collections<br>
 
 *Tips: If you want to run this code localy, I would recomend you to install Anaconda and use Jupyter Notebook with it's basic libraries: Numpy , Pandas , SciPy , Scikit learn , Matplotlib , Seaborn. Libraries may vary depending on the projects. By the way, Yandex prohibits uploading source datasets and full project descriptions, so you won't see them here (NDA).*
 
